@@ -24,3 +24,9 @@ Raed Jaberi, Minimum 2-Vertex Strongly Biconnected Spanning Directed Subgraph Pr
 Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html.
 
 Group
+ابراهيم يحيى سعد 6274
+حيان توفيق ونوس 6114
+الحسن رائد علي 6591
+اسراء حاجي سليمان 6027
+جين صفوه شاهين 6628
+حمزة محمد علي 6598
